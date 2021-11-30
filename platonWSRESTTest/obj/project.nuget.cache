@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJq3miAK/sylVpch2fstv+O9v3+WW1uh2ov8NTypgQ0UvDVfnmCZmMeK5hwMLbDpWP7xq4l6gAvaOvk4+oLS2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\DSD\\TareaAcademica3a\\platonWSRESTTest\\platonWSRESTTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
